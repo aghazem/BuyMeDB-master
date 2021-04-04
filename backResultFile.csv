@@ -1,0 +1,7 @@
+test id,test data,test description
+1,2021-04-05 at 01:15:01 IDT,Registration failed because element click intercepted: Element <a>...</a> is not clickable at point (71/ 22). Other element would receive the click: <
+1,2021-04-05 at 01:15:01 IDT,HomeScreen failed because element click intercepted: Element <span>...</span> is not clickable at point (920/ 436). Other element would receive the cl
+1,2021-04-05 at 01:15:01 IDT,Business wasn't found because element click intercepted: Element <div class="thumbnail" data-lazyattr="style" data-lazy="background-image: url(&quot;h
+1,2021-04-05 at 01:15:01 IDT,Informationscreen failed because no such element: Unable to locate element: {"method":"xpath"/"selector":"//span[.='למישהו אחר']"}
+  (Session info: ch
+1,2021-04-05 at 01:15:01 IDT,ScreenShot wasn't taken because element click intercepted: Element <a class="feature-bottom-link" href="categories/..." data-ember-action="1139">מתנות
